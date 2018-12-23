@@ -1,0 +1,16 @@
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\bin\x64\Release\彈幕模擬器test0001.exe.config
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\bin\x64\Release\彈幕模擬器test0001.exe
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.csprojResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.Form1.resources
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.Properties.Resources.resources
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.csproj.CoreCompileInputs.cache
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0001\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.exe
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\bin\x64\Release\彈幕模擬器test0001.exe.config
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\bin\x64\Release\彈幕模擬器test0001.exe
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.csprojResolveAssemblyReference.cache
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.Form1.resources
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.Properties.Resources.resources
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.csproj.CoreCompileInputs.cache
+C:\Users\VIP\Desktop\專案資料夾\彈幕模擬器test0002\彈幕模擬器test0001\obj\x64\Release\彈幕模擬器test0001.exe
